@@ -1,0 +1,10 @@
+# R project
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+._*
+docs
