@@ -34,6 +34,12 @@ devtools::install_github("rexarski/tarantino")
 
 ## Palettes
 
+**Update:** 2 new palettes from [_The Hateful Eight (2015)_](https://www.instagram.com/p/CBLdkdeIRK2/ and [_Once Upon a Time in Hollywood (2019)_](https://www.instagram.com/p/B-Pl0PAocL7/).
+
+![img](man/figures/TheHatefulEight.png)
+
+![img](man/figures/OnceUponATimeInHollywood.png)
+
 ![img](man/figures/palettes.png)
 
 After loading the package, call `tarantino_palettes` to display all current available palettes, which are stored in the list. Each element within the list is a palette object.

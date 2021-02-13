@@ -11,7 +11,9 @@ tarantino_palettes <- list(
   JackieBrown = c("#646A7A", "#AFC3DC", "#4F5A5B", "#AB795F", "#A99438", "#B6523B", "#33201F"),
   DeathProof = c("#2A0B0C", "#7E3C2E", "#A25137", "#B76F41", "#977367", "#395459", "#B27D77", "#E0B887"),
   InglouriousBasterds = c("#59590F", "#0D0D0D", "#8A7A23", "#374142", "#A5A95F", "#696E68"),
-  DjangoUnchained = c("#8B8A85", "#A49D8B", "#904C04", "#7791A8", "#1C0801")
+  DjangoUnchained = c("#8B8A85", "#A49D8B", "#904C04", "#7791A8", "#1C0801"),
+  TheHatefulEight = c("#050010", "#191416", "#342c27", "#342c27", "#32170a", "#48221b", "#765437", "#9c9582", "#8c6602", "#650100"),
+  OnceUponATimeInHollywood = c("#0f253a", "#253d43", "#341176", "#015c89", "#64828a", "#cd5873", "#d4008f", "#a60400", "#612620", "#976202")
 )
 
 #' A Quentin Tarantino palette generator
