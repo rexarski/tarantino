@@ -27,8 +27,8 @@ devtools::install_github("rexarski/tarantino")
 
 ## Palettes
 
-**Update:** 2 new palettes from \[*The Hateful Eight
-(2015)*\](<https://www.instagram.com/p/CBLdkdeIRK2/> and [*Once Upon a
+**Update:** 2 new palettes from [*The Hateful Eight
+(2015)*](https://www.instagram.com/p/CBLdkdeIRK2/) and [*Once Upon a
 Time in Hollywood (2019)*](https://www.instagram.com/p/B-Pl0PAocL7/).
 
 ![img](man/figures/TheHatefulEight.png)
