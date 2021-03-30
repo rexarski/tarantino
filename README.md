@@ -16,6 +16,8 @@ version based on the famous
 [`wesanderson`](https://github.com/karthik/wesanderson) package. The raw
 data is collected from *[Movies in Color](https://moviesincolor.com)*.
 
+![img](https://64.media.tumblr.com/e9613efa4ba60ea1b137815115366593/tumblr_mk3b1jRrh71s6aghro1_1280.jpg)
+
 ## Installation
 
 You can install the development version of `tarantino` with:
